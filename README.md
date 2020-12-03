@@ -6,7 +6,7 @@
 Here some fact about me
 - 🔭 I’m currently working on improving my knowledge of Algorithms and Data Structures
 - 🌱 I’m currently learning JS, Python, NN 
-- 📫 Want to know more me [Saikat'S world](saikat-s.github.io/)
+- 📫 Want to know more about me [Saikat'S world](https://saikat-s.github.io/)
 - ⚡ Fun fact: I Like you!
 
 [![Saikat-S's github stats](https://github-readme-stats.vercel.app/api?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
