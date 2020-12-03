@@ -9,8 +9,9 @@ Here some fact about me
 - 📫 Want to know more about me [Saikat'S world](https://saikat-s.github.io/)
 - ⚡ Fun fact: I Like you!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Saikat-S's github stats](https://github-readme-stats.vercel.app/api?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
 
