@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Saikat Sharma
 
 <!--
 **Saikat-S/Saikat-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning JS, Python, NN 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,13 +15,6 @@ Here are some ideas to get you started:
 
 [![Saikat-S's github stats](https://github-readme-stats.vercel.app/api?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Saikat-S's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saikat-S&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saikat-S&repo=convoychat" />
-</a>
