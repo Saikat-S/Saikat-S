@@ -6,10 +6,10 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saikat-S)
  
 Here some fact about me
-- 🔭 I’m currently working on improving my knowledge of Algorithms and Data Structures
+- 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning JS, Python, NN 
 - 📫 Want to know more about me [Saikat'S world](https://saikat-s.github.io/)
-- ⚡ Fun fact: I Like you!
+- ⚡ Fun fact: Nice to meet you!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
