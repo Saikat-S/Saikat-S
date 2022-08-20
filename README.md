@@ -16,4 +16,8 @@ Here some fact about me
 [![Saikat-S's github stats](https://github-readme-stats.vercel.app/api?username=Saikat-S)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/SaikatS?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/SaikatS/cf-stats/main/output/light_card.svg" />
+</p>
