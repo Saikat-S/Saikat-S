@@ -5,9 +5,9 @@
 -->
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saikat-S)
  
-Here some fact about me
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning JS, Python, NN 
+Here are some facts about me
+- 🔭 I’m a .NET backend developer
+- 🌱 I’m currently learning DevOps things like docker, ci/cd, etc
 - 📫 Want to know more about me [Saikat'S world](https://saikat-s.github.io/)
 - ⚡ Fun fact: Nice to meet you!
 
